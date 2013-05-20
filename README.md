@@ -21,3 +21,7 @@ Specific operation
 - By typing describe plus the object such as instance, vpc and so on, we can see the current state of the object. By typing help, we can see all supported commands and format. Exit command is to exit the manager.
 
 
+Help
+====
+If you want to make your own instance manage for aws, please check the following url:
+http://docs.aws.amazon.com/AWSSdkDocsJava/latest/DeveloperGuide/welcome.html
